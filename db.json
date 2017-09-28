@@ -1,4 +1,7 @@
 {
+  "skills":[
+    'laravel', 'vue', 'php', 'javascript', 'tooling'
+   ],
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
